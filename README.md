@@ -1,2 +1,1 @@
-# YouHaveWon
-test thing
+open("thing.com");
